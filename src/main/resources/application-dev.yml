@@ -1,0 +1,15 @@
+#server.port = 8081
+#server.context-path = /girl
+#because use yml files is better than default applicantion.properties
+
+server:
+  port: 8088
+#  content-path: /girl
+age: 25
+name: sily
+#also we can use it as config in config
+content: "name: ${name}, age: ${age}}"
+
+#method 3
+girl:
+  spring-boot-configuration-processor
