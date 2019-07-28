@@ -1,4 +1,4 @@
-package com.alrahim.girl;
+package com.alrahim.girl.controller;
 
 
 import org.springframework.web.bind.annotation.PathVariable;

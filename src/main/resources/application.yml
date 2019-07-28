@@ -7,7 +7,6 @@ spring:
     url: jdbc:mysql://127.0.0.1:3306/dbgirl
     username: root
     password: Alrahim123@
-    useSSL: true
   jpa:
     hibernate:
       # create table while running
